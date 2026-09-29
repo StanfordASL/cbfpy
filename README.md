@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/user-attachments/assets/0304752c-cb75-4d53-b45f-b6b1a0912d9c" alt="logo"></img>
+<img height="200" alt="cbf_logo_300px" src="https://github.com/user-attachments/assets/a2ba9853-02f1-411a-b8ed-e3879f474ac9" alt="logo"></img>
 </div>
 
 # CBFpy: Control Barrier Functions in Python and Jax
